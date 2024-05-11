@@ -16,7 +16,7 @@ This project involves:
 
 ## Repository Contents
 - `monitoring.sh`: Bash script for monitoring system information at regular intervals.
-- `manual.ppx`: PowerPoint presentation containing key steps and commands used during project implementation.
+- `Born2bRoot.ppx`: PowerPoint presentation containing key steps and commands used during project implementation.
 
 ## Key Skills Demonstrated
 - **System Administration**: Proficient in setting up and configuring server environments, ensuring security and performance.
