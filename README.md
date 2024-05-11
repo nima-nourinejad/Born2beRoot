@@ -15,11 +15,8 @@ This project involves:
 - Implementing a custom FTP service for file sharing purposes.
 
 ## Repository Contents
-- `server_setup.sh`: Shell script for setting up the Debian server environment and configuring security measures.
-- `wordpress_setup.sh`: Shell script for deploying and configuring the WordPress website with necessary components.
-- `ftp_service_setup.sh`: Shell script for setting up the FTP service for file sharing.
 - `monitoring.sh`: Bash script for monitoring system information at regular intervals.
-- `signature.txt`: File containing the signature of the virtual machine's virtual disk.
+- `manual.ppx`: PowerPoint presentation containing key steps and commands used during project implementation.
 
 ## Key Skills Demonstrated
 - **System Administration**: Proficient in setting up and configuring server environments, ensuring security and performance.
